@@ -1,4 +1,4 @@
-# YOLOv5 requirements
+pip.exe install -r .\requirements.txt -i https://pypi.mirrors.ustc.edu.cn/simple/# YOLOv5 requirements
 # Usage: pip install -r requirements.txt
 
 # Base ------------------------------------------------------------------------
